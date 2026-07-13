@@ -1,0 +1,131 @@
+anno,territorio,livello_territoriale,categoria_sport,n_spettacoli,persone,media_ps,botteghino,pubblico
+2021,Liguria,regione,Sport calcio,342.0,240104.0,,,
+2021,Lombardia,regione,Sport calcio,5595.0,1541446.0,,,
+2021,Piemonte,regione,Sport calcio,3227.0,650598.0,,,
+2021,Valle d'Aosta,regione,Sport calcio,154.0,5664.0,,,
+2021,Tot Nord-ovest,macroarea,Sport calcio,9318.0,2437812.0,,,
+2021,Emilia-Romagna,regione,Sport calcio,1185.0,514444.0,,,
+2021,Friuli- Venezia Giulia,regione,Sport calcio,930.0,156538.0,,,
+2021,Trentino-Alto Adige,regione,Sport calcio,266.0,30225.0,,,
+2021,Veneto,regione,Sport calcio,1457.0,309502.0,,,
+2021,Tot Nord-est,macroarea,Sport calcio,3838.0,1010709.0,,,
+2021,Lazio,regione,Sport calcio,263.0,717630.0,,,
+2021,Marche,regione,Sport calcio,896.0,147838.0,,,
+2021,Toscana,regione,Sport calcio,6685.0,751441.0,,,
+2021,Umbria,regione,Sport calcio,286.0,94753.0,,,
+2021,Tot Centro,macroarea,Sport calcio,8130.0,1711662.0,,,
+2021,Abruzzo,regione,Sport calcio,313.0,76383.0,,,
+2021,Basilicata,regione,Sport calcio,80.0,30329.0,,,
+2021,Calabria,regione,Sport calcio,159.0,146717.0,,,
+2021,Campania,regione,Sport calcio,376.0,664330.0,,,
+2021,Molise,regione,Sport calcio,70.0,23495.0,,,
+2021,Puglia,regione,Sport calcio,288.0,317680.0,,,
+2021,Tot Sud,macroarea,Sport calcio,1286.0,1258934.0,,,
+2021,Sardegna,regione,Sport calcio,365.0,140833.0,,,
+2021,Sicilia,regione,Sport calcio,260.0,143990.0,,,
+2021,Tot Isole,macroarea,Sport calcio,625.0,284823.0,,,
+2021,Totale complessivo,totale_nazionale,Sport calcio,23197.0,6703940.0,,,
+2021,Liguria,regione,Sport di squadra non calcio,2.0,133.0,,,
+2021,Lombardia,regione,Sport di squadra non calcio,450.0,191207.0,,,
+2021,Piemonte,regione,Sport di squadra non calcio,206.0,56079.0,,,
+2021,Valle d'Aosta,regione,Sport di squadra non calcio,0.0,0.0,,,
+2021,Tot Nord-ovest,macroarea,Sport di squadra non calcio,658.0,247419.0,,,
+2021,Emilia-Romagna,regione,Sport di squadra non calcio,241.0,155710.0,,,
+2021,Friuli- Venezia Giulia,regione,Sport di squadra non calcio,88.0,30143.0,,,
+2021,Trentino-Alto Adige,regione,Sport di squadra non calcio,26.0,25771.0,,,
+2021,Veneto,regione,Sport di squadra non calcio,217.0,128576.0,,,
+2021,Tot Nord-est,macroarea,Sport di squadra non calcio,572.0,340200.0,,,
+2021,Lazio,regione,Sport di squadra non calcio,42.0,9896.0,,,
+2021,Marche,regione,Sport di squadra non calcio,114.0,42382.0,,,
+2021,Toscana,regione,Sport di squadra non calcio,215.0,36221.0,,,
+2021,Umbria,regione,Sport di squadra non calcio,28.0,11824.0,,,
+2021,Tot Centro,macroarea,Sport di squadra non calcio,399.0,100323.0,,,
+2021,Abruzzo,regione,Sport di squadra non calcio,61.0,14350.0,,,
+2021,Basilicata,regione,Sport di squadra non calcio,11.0,1177.0,,,
+2021,Calabria,regione,Sport di squadra non calcio,22.0,5191.0,,,
+2021,Campania,regione,Sport di squadra non calcio,47.0,18025.0,,,
+2021,Molise,regione,Sport di squadra non calcio,8.0,2059.0,,,
+2021,Puglia,regione,Sport di squadra non calcio,100.0,33251.0,,,
+2021,Tot Sud,macroarea,Sport di squadra non calcio,249.0,74053.0,,,
+2021,Sardegna,regione,Sport di squadra non calcio,31.0,22402.0,,,
+2021,Sicilia,regione,Sport di squadra non calcio,61.0,10537.0,,,
+2021,Tot Isole,macroarea,Sport di squadra non calcio,92.0,32939.0,,,
+2021,Totale complessivo,totale_nazionale,Sport di squadra non calcio,1970.0,794934.0,,,
+2021,Liguria,regione,Sport individuali,2.0,244.0,,,
+2021,Lombardia,regione,Sport individuali,52.0,91836.0,,,
+2021,Piemonte,regione,Sport individuali,38.0,166384.0,,,
+2021,Valle d'Aosta,regione,Sport individuali,15.0,1232.0,,,
+2021,Tot Nord-ovest,macroarea,Sport individuali,107.0,259696.0,,,
+2021,Emilia-Romagna,regione,Sport individuali,63.0,112785.0,,,
+2021,Friuli- Venezia Giulia,regione,Sport individuali,15.0,4600.0,,,
+2021,Trentino-Alto Adige,regione,Sport individuali,37.0,34401.0,,,
+2021,Veneto,regione,Sport individuali,9.0,2337.0,,,
+2021,Tot Nord-est,macroarea,Sport individuali,124.0,154123.0,,,
+2021,Lazio,regione,Sport individuali,124.0,40962.0,,,
+2021,Marche,regione,Sport individuali,9.0,1121.0,,,
+2021,Toscana,regione,Sport individuali,167.0,28596.0,,,
+2021,Umbria,regione,Sport individuali,5.0,361.0,,,
+2021,Tot Centro,macroarea,Sport individuali,305.0,71040.0,,,
+2021,Abruzzo,regione,Sport individuali,8.0,511.0,,,
+2021,Basilicata,regione,Sport individuali,0.0,0.0,,,
+2021,Calabria,regione,Sport individuali,0.0,0.0,,,
+2021,Campania,regione,Sport individuali,64.0,6152.0,,,
+2021,Molise,regione,Sport individuali,0.0,0.0,,,
+2021,Puglia,regione,Sport individuali,0.0,0.0,,,
+2021,Tot Sud,macroarea,Sport individuali,72.0,6663.0,,,
+2021,Sardegna,regione,Sport individuali,37.0,10410.0,,,
+2021,Sicilia,regione,Sport individuali,10.0,1227.0,,,
+2021,Tot Isole,macroarea,Sport individuali,47.0,11637.0,,,
+2021,Totale complessivo,totale_nazionale,Sport individuali,655.0,503159.0,,,
+2021,Liguria,regione,Altri sport,25.0,3434.0,,,
+2021,Lombardia,regione,Altri sport,144.0,25703.0,,,
+2021,Piemonte,regione,Altri sport,238.0,37082.0,,,
+2021,Valle d'Aosta,regione,Altri sport,4.0,3128.0,,,
+2021,Tot Nord-ovest,macroarea,Altri sport,411.0,69347.0,,,
+2021,Emilia-Romagna,regione,Altri sport,157.0,76292.0,,,
+2021,Friuli- Venezia Giulia,regione,Altri sport,13.0,10544.0,,,
+2021,Trentino-Alto Adige,regione,Altri sport,224.0,79966.0,,,
+2021,Veneto,regione,Altri sport,144.0,23792.0,,,
+2021,Tot Nord-est,macroarea,Altri sport,538.0,190594.0,,,
+2021,Lazio,regione,Altri sport,42.0,13812.0,,,
+2021,Marche,regione,Altri sport,62.0,8642.0,,,
+2021,Toscana,regione,Altri sport,179.0,14515.0,,,
+2021,Umbria,regione,Altri sport,13.0,1496.0,,,
+2021,Tot Centro,macroarea,Altri sport,296.0,38465.0,,,
+2021,Abruzzo,regione,Altri sport,19.0,1755.0,,,
+2021,Basilicata,regione,Altri sport,0.0,0.0,,,
+2021,Calabria,regione,Altri sport,1.0,5831.0,,,
+2021,Campania,regione,Altri sport,36.0,6732.0,,,
+2021,Molise,regione,Altri sport,0.0,0.0,,,
+2021,Puglia,regione,Altri sport,27.0,2782.0,,,
+2021,Tot Sud,macroarea,Altri sport,83.0,17100.0,,,
+2021,Sardegna,regione,Altri sport,15.0,2698.0,,,
+2021,Sicilia,regione,Altri sport,27.0,4994.0,,,
+2021,Tot Isole,macroarea,Altri sport,42.0,7692.0,,,
+2021,Totale complessivo,totale_nazionale,Altri sport,1370.0,323198.0,,,
+2021,Liguria,regione,Attività sportiva,371.0,243915.0,657.4528302,3936967.75,4172855.93
+2021,Lombardia,regione,Attività sportiva,6241.0,1850192.0,296.457619,57501515.29,59733798.19
+2021,Piemonte,regione,Attività sportiva,3709.0,910143.0,245.3877056,27788130.23,29210005.99
+2021,Valle d'Aosta,regione,Attività sportiva,173.0,10024.0,57.94219653,115212.5,119521.5
+2021,Tot Nord-ovest,macroarea,Attività sportiva,10494.0,3014274.0,287.2378502,89341825.77,93236181.61
+2021,Emilia-Romagna,regione,Attività sportiva,1646.0,859231.0,522.0115431,18654296.76,18919828.38
+2021,Friuli- Venezia Giulia,regione,Attività sportiva,1046.0,201825.0,192.9493308,3939206.0,4409033.28
+2021,Trentino-Alto Adige,regione,Attività sportiva,553.0,170363.0,308.0705244,2686884.2,3047128.84
+2021,Veneto,regione,Attività sportiva,1827.0,464207.0,254.0815545,6931791.06,7363545.0
+2021,Tot Nord-est,macroarea,Attività sportiva,5072.0,1695626.0,334.3111199,32212178.02,33739535.5
+2021,Lazio,regione,Attività sportiva,471.0,782300.0,1660.934183,16449089.04,16688122.07
+2021,Marche,regione,Attività sportiva,1081.0,199983.0,184.9981499,2100860.2,2404432.45
+2021,Toscana,regione,Attività sportiva,7246.0,830773.0,114.6526359,9225524.73,10017014.84
+2021,Umbria,regione,Attività sportiva,332.0,108434.0,326.6084337,1028071.11,1153329.91
+2021,Tot Centro,macroarea,Attività sportiva,9130.0,1921490.0,210.4589266,28803545.08,30262899.27
+2021,Abruzzo,regione,Attività sportiva,401.0,92999.0,231.9177057,660700.07,776949.07
+2021,Basilicata,regione,Attività sportiva,91.0,31506.0,346.2197802,427972.89,443820.04
+2021,Calabria,regione,Attività sportiva,182.0,157739.0,866.6978022,1802259.99,1929154.74
+2021,Campania,regione,Attività sportiva,523.0,695239.0,1329.328872,14014656.12,14886573.73
+2021,Molise,regione,Attività sportiva,78.0,25554.0,327.6153846,412064.5,432598.5
+2021,Puglia,regione,Attività sportiva,415.0,353713.0,852.3204819,4044505.94,4247766.11
+2021,Tot Sud,macroarea,Attività sportiva,1690.0,1356750.0,802.8106509,21362159.51,22716862.19
+2021,Sardegna,regione,Attività sportiva,448.0,176343.0,393.6227679,2239073.46,2291033.24
+2021,Sicilia,regione,Attività sportiva,358.0,160748.0,449.0167598,1615599.15,1742241.13
+2021,Tot Isole,macroarea,Attività sportiva,806.0,337091.0,418.2270471,3854672.61,4033274.37
+2021,Totale complessivo,totale_nazionale,Attività sportiva,27192.0,8325231.0,306.1647176,175574380.99,183988752.94

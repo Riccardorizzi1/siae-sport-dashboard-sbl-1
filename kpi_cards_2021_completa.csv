@@ -1,0 +1,35 @@
+kpi,valore,unita
+Totale spettacoli,27192.0,eventi
+Totale persone,8325231.0,persone
+Totale botteghino,175574380.99,euro
+Totale pubblico,183988752.94,euro
+Persone medie per spettacolo,306.1647175639894,persone/evento
+Botteghino medio per spettacolo,6456.839548028833,euro/evento
+Pubblico medio per spettacolo,6766.282470579582,euro/evento
+Variazione YoY spettacoli 2021,-28.646776352042824,%
+Variazione YoY persone 2021,17.517514564356663,%
+Indice resilienza medio 2021,23.38651443759759,%
+Regione leader per spettacoli,Toscana,
+Spettacoli regione leader,7246.0,eventi
+Quota spettacoli regione leader,26.647543395116212,%
+Regione leader per persone,Lombardia,
+Persone regione leader,1850192.0,persone
+Quota persone regione leader,22.22391186502813,%
+Regione leader per botteghino,Lombardia,
+Botteghino regione leader,57501515.29,euro
+Quota botteghino regione leader,32.75051574481988,%
+Regione leader per pubblico,Lombardia,
+Pubblico regione leader,59733798.19,euro
+Quota pubblico regione leader,32.46600525059247,%
+Regione leader persone medie per spettacolo,Lazio,
+Persone medie per spettacolo regione leader,1660.9341825902336,persone/evento
+Regione leader botteghino medio per spettacolo,Lazio,
+Botteghino medio per spettacolo regione leader,34923.755923566874,euro/evento
+Regione leader resilienza 2021,Valle d'Aosta,
+Indice resilienza regione leader,47.658402203856745,%
+Categoria con più spettacoli,Sport calcio,
+Spettacoli categoria leader,23197.0,eventi
+Categoria con più persone,Sport calcio,
+Persone categoria leader,6703940.0,persone
+Quota calcio su spettacoli totali,85.30817887614003,%
+Quota sport individuali su spettacoli totali,2.4087967049132097,%
